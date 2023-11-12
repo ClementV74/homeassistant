@@ -13,19 +13,19 @@ Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un 
 
 ## Introduction
 
-Dans ce projet, nous explorons les différentes étapes de la mise en place d'un home assistant personnalisé, offrant une expérience de contrôle de LED à distance. Chaque section du projet est détaillée dans le rapport correspondant, disponible [ici](lien_vers_le_rapport).
+Dans ce projet, nous explorons les différentes étapes de la mise en place d'un home assistant personnalisé, offrant une expérience de contrôle de LED à distance. Chaque section du projet est détaillée dans le rapport correspondant, disponible [ici](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof).
 
 ## Configuration du Raspberry Pi
 
-La première étape consiste à configurer votre Raspberry Pi. Suivez attentivement les instructions détaillées dans la section [Configuration du Raspberry Pi](lien_vers_la_partie_raspberry_pi) du rapport.
+La première étape consiste à configurer votre Raspberry Pi. Suivez attentivement les instructions détaillées dans la section [Configuration du Raspberry Pi](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof) du rapport.
 
 ## Installation du Home Assistant
 
-Une fois votre Raspberry Pi configuré, suivez les étapes d'installation du Home Assistant. Ces étapes sont décrites en détail dans la section [Installation du Home Assistant](lien_vers_la_partie_installation) du rapport.
+Une fois votre Raspberry Pi configuré, suivez les étapes d'installation du Home Assistant. Ces étapes sont décrites en détail dans la section [Installation du Home Assistant](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof) du rapport.
 
 ## Configuration du Home Assistant
 
-Après l'installation, la configuration du Home Assistant est cruciale. Découvrez comment connecter votre home assistant, installer des addons et personnaliser les fichiers de configuration dans la section [Configuration du Home Assistant](lien_vers_la_partie_configuration) du rapport.
+Après l'installation, la configuration du Home Assistant est cruciale. Découvrez comment connecter votre home assistant, installer des addons et personnaliser les fichiers de configuration dans la section [Configuration du Home Assistant](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof) du rapport.
 
 ## Personnalisation
 
