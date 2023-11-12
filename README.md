@@ -1,1 +1,48 @@
-# homeassistant
+# Projet Home Assistant Domotique
+
+Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un système domotique simple et personnalisable permettant de contrôler l'allumage et l'extinction d'une LED via l'application Home Assistant.
+
+## Table des matières
+
+- [Introduction](#introduction)
+- [Configuration du Raspberry Pi](#configuration-du-raspberry-pi)
+- [Installation du Home Assistant](#installation-du-home-assistant)
+- [Configuration du Home Assistant](#configuration-du-home-assistant)
+- [Personnalisation](#personnalisation)
+- [Contribuer](#contribuer)
+- [Ressources supplémentaires](#ressources-supplémentaires)
+- [Licence](#licence)
+
+## Introduction
+
+Dans ce projet, nous explorons les différentes étapes de la mise en place d'un home assistant personnalisé, offrant une expérience de contrôle de LED à distance. Chaque section du projet est détaillée dans le rapport correspondant, disponible [ici](lien_vers_le_rapport).
+
+## Configuration du Raspberry Pi
+
+La première étape consiste à configurer votre Raspberry Pi. Suivez attentivement les instructions détaillées dans la section [Configuration du Raspberry Pi](lien_vers_la_partie_raspberry_pi) du rapport.
+
+## Installation du Home Assistant
+
+Une fois votre Raspberry Pi configuré, suivez les étapes d'installation du Home Assistant. Ces étapes sont décrites en détail dans la section [Installation du Home Assistant](lien_vers_la_partie_installation) du rapport.
+
+## Configuration du Home Assistant
+
+Après l'installation, la configuration du Home Assistant est cruciale. Découvrez comment connecter votre home assistant, installer des addons et personnaliser les fichiers de configuration dans la section [Configuration du Home Assistant](lien_vers_la_partie_configuration) du rapport.
+
+## Personnalisation
+
+Faites de ce projet votre propre création ! Explorez des ajouts, des automatisations et des personnalisations supplémentaires pour répondre à vos besoins spécifiques. Consultez le rapport pour des suggestions de personnalisation.
+
+## Contribuer
+
+Nous accueillons toute contribution pour améliorer ce projet. Si vous trouvez des bugs, des améliorations ou si vous souhaitez ajouter des fonctionnalités, consultez notre guide de contribution [CONTRIBUTING.md](lien_vers_le_fichier_contributing.md).
+
+## Ressources supplémentaires
+
+- Rejoignez la communauté Home Assistant sur [Discord](lien_vers_discord).
+- Guide d'installation de Home Assistant : [Raspberry Pi - Home Assistant](lien_vers_guide_home_assistant).
+- Vidéo d'aide : [Lien vers la vidéo](lien_vers_la_video).
+
+## Licence
+
+Ce projet est sous licence [Licence](lien_vers_licence).
