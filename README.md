@@ -9,7 +9,7 @@ Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un 
 - [Installation du Home Assistant](#installation-du-home-assistant)
 - [Configuration du Home Assistant](#configuration-du-home-assistant)
 - [Personnalisation](#personnalisation)
-- [Ressources supplémentaires](#ressources-supplémentaires📚 )
+- [Ressources supplémentaires](#ressources-supplémentaires )
 
 ## Introduction
 
