@@ -1,7 +1,7 @@
 # Projet Home Assistant Domotique
 
 Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un système domotique simple et personnalisable permettant de contrôler l'allumage et l'extinction d'une LED via l'application Home Assistant.
-![Home Assistant Image](https://imgs.search.brave.com/YotD3O1Tur5PzhjbyHhfTW6PZLtpzjBszo98Gb0yU3Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZlL0hvbWVfQXNz/aXN0YW50X0xvZ28u/c3Zn.svg)
+![Home Assistant Image](https://imgs.search.brave.com/zvWJYEk9IHszbYMH8yVnIPs5D-yVerfMoUlpcUYjQfI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9tZS1hc3Npc3Rh/bnQuaW8vaW1hZ2Vz/L2Jsb2cvMjAyMy0w/OS1oYTEwL2hvbWUt/YXNzaXN0YW50LWxv/Z28tbmV3LnBuZw)
 ## Table des matières
 
 - [Introduction](#introduction)
