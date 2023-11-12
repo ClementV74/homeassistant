@@ -33,7 +33,7 @@ Faites de ce projet votre propre création ! Explorez des ajouts, des automatisa
 
 
 
-## Ressources supplémentaires
+ 📚 ## Ressources supplémentaires 📚
 
 - Rejoignez la communauté Home Assistant sur [Discord](https://discord.com/invite/home-assistant).
 - Guide d'installation de Home Assistant : [Raspberry Pi - Home Assistant](https://www.home-assistant.io/installation/raspberrypi).
