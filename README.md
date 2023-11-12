@@ -10,7 +10,6 @@ Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un 
 - [Configuration du Home Assistant](#configuration-du-home-assistant)
 - [Personnalisation](#personnalisation)
 - [Ressources supplémentaires](#ressources-supplémentaires)
-- [Licence](#licence)
 
 ## Introduction
 
@@ -41,6 +40,4 @@ Faites de ce projet votre propre création ! Explorez des ajouts, des automatisa
 - Vidéo d'aide : [Lien vers la vidéo](https://www.youtube.com/watch?v=wikJla6AilQ).
 -  Github d'aide : [github](https://github.com/home-assistant)
 
-## Licence
 
-Ce projet est sous licence [Licence](lien_vers_licence).
