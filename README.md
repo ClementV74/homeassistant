@@ -9,7 +9,6 @@ Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un 
 - [Installation du Home Assistant](#installation-du-home-assistant)
 - [Configuration du Home Assistant](#configuration-du-home-assistant)
 - [Personnalisation](#personnalisation)
-- [Contribuer](#contribuer)
 - [Ressources supplémentaires](#ressources-supplémentaires)
 - [Licence](#licence)
 
@@ -33,13 +32,11 @@ Après l'installation, la configuration du Home Assistant est cruciale. Découvr
 
 Faites de ce projet votre propre création ! Explorez des ajouts, des automatisations et des personnalisations supplémentaires pour répondre à vos besoins spécifiques. Consultez le rapport pour des suggestions de personnalisation.
 
-## Contribuer
 
-Nous accueillons toute contribution pour améliorer ce projet. Si vous trouvez des bugs, des améliorations ou si vous souhaitez ajouter des fonctionnalités, consultez notre guide de contribution [CONTRIBUTING.md](lien_vers_le_fichier_contributing.md).
 
 ## Ressources supplémentaires
 
-- Rejoignez la communauté Home Assistant sur [Discord](lien_vers_discord).
+- Rejoignez la communauté Home Assistant sur [Discord](https://discord.com/invite/home-assistant).
 - Guide d'installation de Home Assistant : [Raspberry Pi - Home Assistant](lien_vers_guide_home_assistant).
 - Vidéo d'aide : [Lien vers la vidéo](lien_vers_la_video).
 
