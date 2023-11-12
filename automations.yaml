@@ -1,0 +1,13 @@
+automation:
+  - alias: Allumer/éteindre la LED
+    trigger:
+      platform: event
+      event_type: click
+      event_data:
+        entity_id: switch.led_switch
+    condition:
+      condition: state
+      entity_id: switch.led_switch
+      state: 'on'
+    action:
+      service: switch.turn_off
