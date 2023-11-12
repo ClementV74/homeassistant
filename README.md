@@ -32,8 +32,7 @@ Après l'installation, la configuration du Home Assistant est cruciale. Découvr
 Faites de ce projet votre propre création ! Explorez des ajouts, des automatisations et des personnalisations supplémentaires pour répondre à vos besoins spécifiques. Consultez le rapport pour des suggestions de personnalisation.
 
 
-
- 📚 ## Ressources supplémentaires 📚
+## 📚 Ressources supplémentaires 📚
 
 - Rejoignez la communauté Home Assistant sur [Discord](https://discord.com/invite/home-assistant).
 - Guide d'installation de Home Assistant : [Raspberry Pi - Home Assistant](https://www.home-assistant.io/installation/raspberrypi).
