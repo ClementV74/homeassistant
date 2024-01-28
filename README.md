@@ -1,6 +1,6 @@
 # Projet Home Assistant Domotique 🚀
 
-Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un système domotique simple et personnalisable permettant de contrôler l'allumage et l'extinction d'une LED via l'application Home Assistant.
+Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un système domotique simple et personnalisable permettant de contrôler l'allumage et l'extinction d'une LED via l'application Home Assistant, ainsi que l'intégration d'un capteur de température DHT11.
 
 ![Home Assistant Image](https://imgs.search.brave.com/zvWJYEk9IHszbYMH8yVnIPs5D-yVerfMoUlpcUYjQfI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9tZS1hc3Npc3Rh/bnQuaW8vaW1hZ2Vz/L2Jsb2cvMjAyMy0w/OS1oYTEwL2hvbWUt/YXNzaXN0YW50LWxv/Z28tbmV3LnBuZw)
 
@@ -10,13 +10,14 @@ Bienvenue dans le projet Home Assistant Domotique ! Ce projet vise à créer un 
 - [Configuration du Raspberry Pi](#configuration-du-raspberry-pi)
 - [Installation du Home Assistant](#installation-du-home-assistant)
 - [Configuration du Home Assistant](#configuration-du-home-assistant)
+- [Contrôle d'une LED](#contrôle-dune-led)
 - [Intégration du Capteur de Température DHT11](#intégration-du-capteur-de-température-dht11)
 - [Personnalisation](#personnalisation)
 - [Ressources Supplémentaires](#ressources-supplémentaires)
 
 ## Introduction 👋
 
-Dans ce projet, nous explorons les différentes étapes de la mise en place d'un home assistant personnalisé, offrant une expérience de contrôle de LED à distance. Chaque section du projet est détaillée dans le rapport correspondant, disponible [ici](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof).
+Dans ce projet, nous explorons les différentes étapes de la mise en place d'un home assistant personnalisé, offrant une expérience de contrôle de LED à distance ainsi que la surveillance de la température et de l'humidité. Chaque section du projet est détaillée dans le rapport correspondant, disponible [ici](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof).
 
 ## Configuration du Raspberry Pi ⚙️ 
 
@@ -29,6 +30,10 @@ Une fois votre Raspberry Pi configuré, suivez les étapes d'installation du Hom
 ## Configuration du Home Assistant ⚙️
 
 Après l'installation, la configuration du Home Assistant est cruciale. Découvrez comment connecter votre home assistant, installer des addons et personnaliser les fichiers de configuration dans la section [Configuration du Home Assistant](https://1drv.ms/w/s!AkJOHSOXvqhvl0sIlHi1ev77V9iy?e=ciAqof) du rapport.
+
+## Contrôle d'une LED 💡
+
+Cette partie du projet implique le contrôle d'une LED via Home Assistant, illustrant les principes de base de la domotique. Les détails de la configuration et de la mise en œuvre peuvent être trouvés dans le rapport.
 
 ## Intégration du Capteur de Température DHT11 🌡️
 
